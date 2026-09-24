@@ -4,7 +4,7 @@
 
 ## Запуск
 
-Доступен на Github Pages
+Доступен на Github Pages https://exiiime.github.io/urfu.project/
 
 Откройте index.html в браузере или запустите локальный сервер в папке проекта:
 
